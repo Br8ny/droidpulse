@@ -6,13 +6,13 @@
 
 Auto-generated daily from the [F-Droid index](https://f-droid.org) and GitHub. No APKs are hosted here: every entry redirects to the project's own latest release page.
 
-_Last updated 2026-11-26 18:29 UTC · 450 ranked apps · 4005 F-Droid apps with GitHub source_
+_Last updated 2026-11-26 18:38 UTC · 450 ranked apps · 4005 F-Droid apps with GitHub source_
 
 ## Overall top 25
 
 | # | App | Category | Stars | Pulse | Release |
 |---:|---|---|---:|---:|---|
-| 1 | [RustDesk](https://github.com/rustdesk/rustdesk) | Other | 131,633 | 198.8 | [Download](https://github.com/rustdesk/rustdesk/releases/latest) |
+| 1 | [RustDesk](https://github.com/rustdesk/rustdesk) | Other | 131,634 | 198.8 | [Download](https://github.com/rustdesk/rustdesk/releases/latest) |
 | 2 | [Magisk](https://github.com/topjohnwu/magisk) | Tools &amp; System | 64,330 | 187.8 | [Download](https://github.com/topjohnwu/magisk/releases/latest) |
 | 3 | [Joplin](https://github.com/laurent22/joplin) | Reading &amp; Writing | 57,370 | 187.8 | [Download](https://github.com/laurent22/joplin/releases/latest) |
 | 4 | [NewPipe](https://github.com/teamnewpipe/newpipe) | Internet &amp; Network | 40,967 | 181.6 | [Download](https://github.com/teamnewpipe/newpipe/releases/latest) |
@@ -21,7 +21,7 @@ _Last updated 2026-11-26 18:29 UTC · 450 ranked apps · 4005 F-Droid apps with 
 | 7 | [Kazumi](https://github.com/predidit/kazumi) | Media &amp; Music | 44,167 | 174.3 | [Download](https://github.com/predidit/kazumi/releases/latest) |
 | 8 | [Termux](https://github.com/termux/termux-app) | Tools &amp; System | 65,765 | 173.1 | [Download](https://github.com/termux/termux-app/releases/latest) |
 | 9 | [Obtainium](https://github.com/imranr98/obtainium) | Tools &amp; System | 21,935 | 171.3 | [Download](https://github.com/imranr98/obtainium/releases/latest) |
-| 10 | [Seal](https://github.com/junkfood02/seal) | Internet &amp; Network | 31,048 | 168.9 | [Download](https://github.com/junkfood02/seal/releases/latest) |
+| 10 | [Seal](https://github.com/junkfood02/seal) | Internet &amp; Network | 31,049 | 168.9 | [Download](https://github.com/junkfood02/seal/releases/latest) |
 | 11 | [Organic Maps・Offline Map &amp; GPS](https://github.com/organicmaps/organicmaps) | Navigation &amp; Travel | 16,139 | 168.9 | [Download](https://github.com/organicmaps/organicmaps/releases/latest) |
 | 12 | [SimpMusic](https://github.com/maxrave-dev/simpmusic) | Media &amp; Music | 13,926 | 167.1 | [Download](https://github.com/maxrave-dev/simpmusic/releases/latest) |
 | 13 | [Thunderbird: Free Your Inbox](https://github.com/thunderbird/thunderbird-android) | Internet &amp; Network | 14,296 | 166.7 | [Download](https://github.com/thunderbird/thunderbird-android/releases/latest) |
@@ -90,7 +90,7 @@ _Last updated 2026-11-26 18:29 UTC · 450 ranked apps · 4005 F-Droid apps with 
 | App | Stars | Pulse | Release |
 |---|---:|---:|---|
 | [NewPipe](https://github.com/teamnewpipe/newpipe) | 40,967 | 181.6 | [Download](https://github.com/teamnewpipe/newpipe/releases/latest) |
-| [Seal](https://github.com/junkfood02/seal) | 31,048 | 168.9 | [Download](https://github.com/junkfood02/seal/releases/latest) |
+| [Seal](https://github.com/junkfood02/seal) | 31,049 | 168.9 | [Download](https://github.com/junkfood02/seal/releases/latest) |
 | [Thunderbird: Free Your Inbox](https://github.com/thunderbird/thunderbird-android) | 14,296 | 166.7 | [Download](https://github.com/thunderbird/thunderbird-android/releases/latest) |
 | [aFreeRDP](https://github.com/freerdp/freerdp) | 14,058 | 166.1 | [Download](https://github.com/freerdp/freerdp/releases/latest) |
 | [YTDLnis](https://github.com/deniscerri/ytdlnis) | 11,334 | 161.2 | [Download](https://github.com/deniscerri/ytdlnis/releases/latest) |
@@ -139,7 +139,7 @@ _Last updated 2026-11-26 18:29 UTC · 450 ranked apps · 4005 F-Droid apps with 
 | [FitBook: Calorie Tracker](https://github.com/brandonp2412/fitbook) | 184 | 104.9 | [Download](https://github.com/brandonp2412/fitbook/releases/latest) |
 | [Grocy: Self-hosted Grocery Management](https://github.com/patzly/grocy-android) | 1,214 | 102.5 | [Download](https://github.com/patzly/grocy-android/releases/latest) |
 | [Nudge](https://github.com/astraedus/nudge) | 63 | 89.2 | [Download](https://github.com/astraedus/nudge/releases/latest) |
-| [Mensinator](https://github.com/emmatellblom/mensinator) | 152 | 84.6 | [Download](https://github.com/emmatellblom/mensinator/releases/latest) |
+| [Mensinator](https://github.com/emmatellblom/mensinator) | 152 | 84.2 | [Download](https://github.com/emmatellblom/mensinator/releases/latest) |
 | [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer) | 169 | 74.1 | [Download](https://github.com/blockbasti/just_another_workout_timer/releases/latest) |
 | [Smoking Tracker](https://github.com/pintargasper/smokingtracker) | 23 | 72.3 | [Download](https://github.com/pintargasper/smokingtracker/releases/latest) |
 | [Health Disconnect](https://github.com/monkopedia/health-disconnect) | 22 | 72.0 | [Download](https://github.com/monkopedia/health-disconnect/releases/latest) |
@@ -182,7 +182,7 @@ _Last updated 2026-11-26 18:29 UTC · 450 ranked apps · 4005 F-Droid apps with 
 
 | App | Stars | Pulse | Release |
 |---|---:|---:|---|
-| [RustDesk](https://github.com/rustdesk/rustdesk) | 131,633 | 198.8 | [Download](https://github.com/rustdesk/rustdesk/releases/latest) |
+| [RustDesk](https://github.com/rustdesk/rustdesk) | 131,634 | 198.8 | [Download](https://github.com/rustdesk/rustdesk/releases/latest) |
 | [NewsBlur - News reader](https://github.com/samuelclay/newsblur) | 7,700 | 159.0 | [Download](https://github.com/samuelclay/newsblur/releases/latest) |
 | [Tasks.org: Open-source To-Do Lists &amp; Reminders](https://github.com/tasks/tasks) | 5,808 | 154.7 | [Download](https://github.com/tasks/tasks/releases/latest) |
 | [DuckDuckGo Privacy Browser](https://github.com/duckduckgo/android) | 4,920 | 151.7 | [Download](https://github.com/duckduckgo/android/releases/latest) |
